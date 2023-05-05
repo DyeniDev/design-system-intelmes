@@ -1,0 +1,2 @@
+import{A as t}from"./index.f3a0da09.js";import"./index.6b32b821.js";import"./iframe.1ba424ef.js";import"./index.33b6fb0d.js";import"./jsx-runtime.8b102266.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/davidgaspardev.png",alt:"David Gaspar"},argTypes:{src:{control:{type:"text"}}}},c={},e={args:{src:void 0}},m=["Primary","WithFallback"];export{c as Primary,e as WithFallback,m as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.736c5ce9.js.map
